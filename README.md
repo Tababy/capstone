@@ -1,8 +1,6 @@
 # A RAW Proof of Concept of a FULL DataEngineering/DataScience Pipeline
 
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
-
 Eventhough I dont stand the pace of the competition, and because of that, I was not able to document therefore my evolution on the project, development, I want to show that I fullfill the objective of the capstone, which were:
 
     - Optimise an existing or original code base to run against a test function.
