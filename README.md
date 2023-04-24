@@ -11,7 +11,6 @@ In this project, BTC data from binance was scrapped, cleaned and then Technical 
 
 ## DATA
 
-
                                             ETL Process:
 The periods of time are:
     [min,5min,10min,15min,30min,hour,2hour,4hour,8hour,day,week]
@@ -52,6 +51,6 @@ It is important to note that I just take a subset of the data (150000 of the mos
 
 
 
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+## CONTACT DETAILS
+LinkedIn: https://www.linkedin.com/in/izotsogp/
 
