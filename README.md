@@ -1,3 +1,10 @@
+**DOWNLOAD DATASET CREATED FOR THE CAPSTONE**
+
+https://www.kaggle.com/datasets/tababy/btcdatawithtechnicalindicatorsforallperiods2023
+
+(Same dataset can be reproduced usingscripts in ETL)
+    
+
 # A RAW Proof of Concept of a FULL DataEngineering/DataScience Pipeline
 
 
